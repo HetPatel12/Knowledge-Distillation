@@ -1,6 +1,6 @@
 # Feature Learning-Based Knowledge Distillation for Teacher and Student Networks
 
-This repository contains the implementation and results of our Bachelor’s Thesis Project (BTP) on **Feature Learning-Based Knowledge Distillation**, conducted at **The LNM Institute of Information Technology, Jaipur**, under the guidance of **Dr. Lal Upendra Pratap Singh**.
+This repository contains the implementation and results of our Bachelor’s Thesis Project (BTP) on **Feature Learning-Based Knowledge Distillation**, conducted at **The LNM Institute of Information Technology, Jaipur**, under the guidance of **Dr. Lal Upendra Pratap Singh**. You can also refer this [BTP Report](https://github.com/HetPatel12/Knowledge-Distillation/blob/main/BTP-Report.pdf).
 
 ## Project Overview
 
